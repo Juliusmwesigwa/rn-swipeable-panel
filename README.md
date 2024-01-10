@@ -2,7 +2,7 @@
 
 <h1>React Native Swipeable Panel</h1>
 
-**rn-swipeable-panel** is a swipeable, easy to use bottom panel for your React Native projects. You can extend panel by swiping up, make it small or close by swiping down with pan gestures. Feel free to redesign inside of the panel.
+**rn-swipeable-panel** is a swipeable, easy to use bottom panel for your React Native project(s). You can extend panel by swiping up, make it small or close by swiping down with pan gestures. Feel free to redesign inside of the panel.
 
 [![npm version](https://img.shields.io/npm/v/rn-swipeable-panel.svg)](https://www.npmjs.com/package/rn-swipeable-panel)
 
